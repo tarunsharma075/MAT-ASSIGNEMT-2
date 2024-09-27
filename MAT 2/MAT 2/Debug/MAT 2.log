@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\tarun\source\repos\MAT 2\MAT 2\main.cpp(26,9): warning C4305: 'initializing': truncation from 'double' to 'float'
-  MAT 2.vcxproj -> C:\Users\tarun\source\repos\MAT 2\MAT 2\Debug\MAT 2.exe
